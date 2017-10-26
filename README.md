@@ -13,3 +13,8 @@
 | 3 | [Arrays](https://www.hackerrank.com/challenges/js10-arrays) | [Arrays.js](https://github.com/onemolegames/Hackerrank-Solutions/blob/master/10%20Days%20Of%20Javascript/Day-3/Arrays.js)  | 15 |
 | 3 | [Try , Catch and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally) | [TryCatchFinally.js](https://github.com/onemolegames/Hackerrank-Solutions/blob/master/10%20Days%20Of%20Javascript/Day-3/TryCatchFinally.js)  | 15 |
 | 3 | [Throw](https://www.hackerrank.com/challenges/js10-throw) | [Throw.js](https://github.com/onemolegames/Hackerrank-Solutions/blob/master/10%20Days%20Of%20Javascript/Day-3/Throw.js)  | 15 |
+| 4 | [Objects](https://www.hackerrank.com/challenges/js10-objects) | [Objects.js](https://github.com/onemolegames/Hackerrank-Solutions/blob/master/10%20Days%20Of%20Javascript/Day-4/Objects.js)  | 15 |
+| 4 | [Count Objects](https://www.hackerrank.com/challenges/js10-count-objects) | [CountObjetcs.js](https://github.com/onemolegames/Hackerrank-Solutions/blob/master/10%20Days%20Of%20Javascript/Day-4/CountObjects.js)  | 15 |
+| 4 | [Classes](https://www.hackerrank.com/challenges/js10-class) | [Class.js](https://github.com/onemolegames/Hackerrank-Solutions/blob/master/10%20Days%20Of%20Javascript/Day-4/Class.js)  | 15 |
+| 5 | [Inheritance](https://www.hackerrank.com/challenges/js10-inheritance) | [Inheritance.js](https://github.com/onemolegames/Hackerrank-Solutions/blob/master/10%20Days%20Of%20Javascript/Day-5/Inheritance.js)  | 15 |
+| 5 | [Template Literals](https://www.hackerrank.com/challenges/js10-template-literals) | [TemplateLiterals.js](https://github.com/onemolegames/Hackerrank-Solutions/blob/master/10%20Days%20Of%20Javascript/Day-5/TemplateLiterals.js)  | 15 |
