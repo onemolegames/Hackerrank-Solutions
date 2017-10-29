@@ -3,13 +3,13 @@
  */
 
 function pad(n, length) {
-    let len = length - (''+n).length;
+    let len = length - ('' + n).length;
     return (len > 0 ? new Array(++len).join('0') : '') + n
 }
 
 function processData(input) {
     let count = input.split("\n")[0];
-    let inputs = input.split("\n")[1].split(" ").map((item) => pad(item,5));
+    let inputs = input.split("\n")[1].split(" ").map((item) => pad(item, 5));
     let sum = inputs.reduce((acc, curr) => parseFloat(acc) + parseFloat(curr));
     let mean = sum / count;
     let sortedArray = inputs.sort();
@@ -32,14 +32,11 @@ function processData(input) {
             max = results[i].value;
         }
     }
+    let maxFiltered = results.filter((item) => item.value === max);
+    let mode = maxFiltered ? maxFiltered[0].key : sortedArray[0];
     console.log(mean);
     console.log(median);
-    if (max === 1) {
-        console.log(results[0].key);
-    } else {
-        let maxFiltered = results.filter((item)=>item.value ===max);
-        console.log(maxFiltered[0].key)
-    }
+    console.log(mode)
 
 }
 
